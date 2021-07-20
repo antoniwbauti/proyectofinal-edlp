@@ -42,6 +42,10 @@ i{
 .block{
 	display: inline-block;
 }
+.inline{
+	width: 100%;
+	text-align: center;
+}
 .container-imagenes{
 	display: flex;
 	width: 85%;
