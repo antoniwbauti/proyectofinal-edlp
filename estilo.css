@@ -3,7 +3,24 @@
 	text-align: center;
 	margin-top: 1em;
 	border-radius: solid 3px;
-	
+}
+
+.boton-wsp{
+	position: fixed;
+	width: 55px;
+	height: 55px;
+	line-height: 55px;
+	bottom: 30px;
+	right: 30px;
+	background-color: #1ebea5;
+	z-index: 1;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 30px;
+	box-shadow: 0px 1px 10px #000
+}
+.boton-wsp i{
+	color: #fff;
 }
 .fondo{
 	background-color: #F2F2F2;
