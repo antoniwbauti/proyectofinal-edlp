@@ -22,6 +22,14 @@
 .boton-wsp i{
 	color: #fff;
 }
+.boton-wsp:hover{
+	text-decoration: none;
+	background-color: #fff;
+	color: #1ebea5 !important;
+}
+.boton-wsp i:hover{
+	color: #1ebea5
+}
 .fondo{
 	background-color: #F2F2F2;
 }
